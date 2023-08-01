@@ -431,6 +431,7 @@
         },
         {
             "title": "Aldi Süd",
+            "slug": "aldisud",
             "hex": "00005F",
             "source": "https://www.aldi-sued.de"
         },
@@ -1192,6 +1193,7 @@
         },
         {
             "title": "AT&T",
+            "slug": "atandt",
             "hex": "009FDB",
             "source": "https://www.att.com"
         },
@@ -1352,6 +1354,7 @@
         },
         {
             "title": "B&R Automation",
+            "slug": "bandrautomation",
             "hex": "FF8800",
             "source": "https://www.br-automation.com"
         },
@@ -1929,6 +1932,7 @@
         },
         {
             "title": "C++",
+            "slug": "cplusplus",
             "hex": "00599C",
             "source": "https://github.com/isocpp/logos/tree/64ef037049f87ac74875dbe72695e59118b52186"
         },
@@ -2822,6 +2826,7 @@
         },
         {
             "title": "Cycling '74",
+            "slug": "cycling74",
             "hex": "111111",
             "source": "https://cycling74.com"
         },
@@ -2924,6 +2929,7 @@
         },
         {
             "title": "Dassault Systèmes",
+            "slug": "dassaultsystemes",
             "hex": "005386",
             "source": "https://www.3ds.com"
         },
@@ -3368,6 +3374,7 @@
         },
         {
             "title": "Dungeons & Dragons",
+            "slug": "dungeonsanddragons",
             "hex": "ED1C24",
             "source": "https://dnd.wizards.com/articles/features/basicrules",
             "guidelines": "https://dnd.wizards.com/articles/features/fan-site-kit",
@@ -4405,6 +4412,7 @@
         },
         {
             "title": "Game & Watch",
+            "slug": "gameandwatch",
             "hex": "000000",
             "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Game_and_watch_logo.svg"
         },
@@ -5459,6 +5467,7 @@
         },
         {
             "title": "Hungry Jack's",
+            "slug": "hungryjacks",
             "hex": "D0021B",
             "source": "https://www.hungryjacks.com.au"
         },
@@ -6619,6 +6628,7 @@
         },
         {
             "title": "Let's Encrypt",
+            "slug": "letsencrypt",
             "hex": "003A70",
             "source": "https://letsencrypt.org/trademarks/",
             "guidelines": "https://letsencrypt.org/trademarks/",
@@ -6649,6 +6659,7 @@
         },
         {
             "title": "Libera.Chat",
+            "slug": "unknown",
             "hex": "FF55DD",
             "source": "https://libera.chat"
         },
@@ -7119,6 +7130,7 @@
         },
         {
             "title": "Mautic",
+            "slug": "unknown",
             "hex": "4E5E9E",
             "source": "https://www.mautic.org/about/logos-and-graphics"
         },
@@ -7272,6 +7284,7 @@
         },
         {
             "title": "Metro de la Ciudad de México",
+            "slug": "metrodelaciudaddemexico",
             "hex": "F77E1C",
             "source": "https://es.wikipedia.org/wiki/Archivo:Metro_de_la_Ciudad_de_M%C3%A9xico_(logo)_version_2019.svg"
         },
@@ -7282,6 +7295,7 @@
         },
         {
             "title": "Métro de Paris",
+            "slug": "metrodeparis",
             "hex": "003E95",
             "source": "https://www.ratp.fr"
         },
@@ -8112,6 +8126,7 @@
         },
         {
             "title": "Notepad++",
+            "slug": "notepadplusplus",
             "hex": "90E59A",
             "source": "https://github.com/notepad-plus-plus/notepad-plus-plus/blob/1f2c63cce173e3e1dc5922637c81a851693e2856/PowerEditor/misc/chameleon/chameleon-pencil.eps"
         },
@@ -8907,6 +8922,7 @@
         },
         {
             "title": "Picard Surgelés",
+            "slug": "picardsurgeles",
             "hex": "2D4999",
             "source": "https://www.picard.fr"
         },
@@ -9484,6 +9500,7 @@
         },
         {
             "title": "Pterodactyl",
+            "slug": "unknown",
             "hex": "10539F",
             "source": "https://github.com/pterodactyl/panel/blob/eaf46429f2a001469fb5f18f7891ce8e5be7f049/public/favicons/favicon-96x96.png"
         },
@@ -10471,6 +10488,7 @@
         },
         {
             "title": "São Paulo Metro",
+            "slug": "saopaulometro",
             "hex": "004382",
             "source": "https://upload.wikimedia.org/wikipedia/commons/d/da/Sao_Paulo_Metro_Logo.svg"
         },
@@ -11222,7 +11240,8 @@
         },
         {
             "title": "Sphere Online Judge",
-            "slug": "spoj",
+            "slug_org": "spoj",
+            "slug": "unknown",
             "aliases": {
                 "aka": [
                     "SPOJ"
@@ -13175,6 +13194,7 @@
         },
         {
             "title": "Weights & Biases",
+            "slug": "weightsandbiases",
             "hex": "FFBE00",
             "source": "https://wandb.ai"
         },

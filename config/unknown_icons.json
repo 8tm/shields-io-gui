@@ -1,0 +1,39 @@
+{
+    "icons": [
+        {
+            "title": "Libera.Chat",
+            "hex": "FF55DD",
+            "source": "https://libera.chat"
+        },
+        {
+            "title": "Mautic",
+            "hex": "4E5E9E",
+            "source": "https://www.mautic.org/about/logos-and-graphics"
+        },
+        {
+            "title": "Pterodactyl",
+            "hex": "10539F",
+            "source": "https://github.com/pterodactyl/panel/blob/eaf46429f2a001469fb5f18f7891ce8e5be7f049/public/favicons/favicon-96x96.png"
+        },
+        {
+            "title": "Sphere Online Judge",
+            "slug": "spoj",
+            "aliases": {
+                "aka": [
+                    "SPOJ"
+                ]
+            },
+            "hex": "337AB7",
+            "source": "https://www.spoj.com"
+        },
+
+        {
+            "NO_LOGO_title": "Warner Bros.",
+            "NO_LOGO_slug": "warnerbros",
+            "NO_LOGO_hex": "004DB4",
+            "NO_LOGO_source": "https://www.warnerbros.com"
+        },
+
+
+    ]
+}
