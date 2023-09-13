@@ -1,7 +1,7 @@
 # Shields.io GUI
 
 Graphical badge creator.
-![Alt text dla obrazu](https://github.com/8tm/shields-io-gui/raw/base_version/images/shields-io-gui-screenshot.png)
+![Alt text dla obrazu](https://github.com/8tm/shields-io-gui/raw/master/images/shields-io-gui-screenshot.png)
 
 The application allows:
 - Badge preview (with the possibility of enlarging from 100 to 500 %)
